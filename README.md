@@ -12,7 +12,3 @@
 ✔ Formato ligero y fácil de leer  
 ✔ Compatible con cualquier editor Markdown  
 ✔ Perfecto para principiantes en checo  
-
-## Licencia  
-**Este contenido está protegido bajo la licencia Creative Commons BY-ND 4.0.**  
-Solo se permite visualizar y compartir, **pero no modificar ni reutilizar**. 

@@ -13,16 +13,18 @@ Esta lección tiene como objetivo enseñar **conceptos básicos del idioma checo
 2. **Gramática básica (nombres, adjetivos, pronombres)**  
 3. **Gramática básica (verbos y conjugaciones)**  
 4. **Frases comunes y expresiones útiles**  
-5. **Los sonidos más difíciles para hispanohablantes**
-6. **Guía fonética del idioma checo**  
-7. **Costumbres y tradiciones de la República Checa**  
-8. **Fuentes utilizadas**
+5. **Guía fonética del idioma checo**
+6. **Costumbres y tradiciones de la República Checa**
+7. **Fuentes utilizadas**  
 
 ---
 # 1. **Curiosidades**
 ## **¿Sabías que?**
 - **El checo es el idioma oficial de la República Checa y es hablado por aproximadamente 10 millones de personas en todo el mundo.**
 **Es un idioma eslavo estrechamente relacionado con el eslovaco y el polaco.** Aunque puede ser desafiante para los hablantes no nativos, muchos checos hablan inglés con fluidez y estarán felices de hablar con los visitantes en este idioma.
+  -  **La República Checa tiene el mayor consumo de cerveza per cápita en el mundo.**  
+![Cerveza checa](https://www.bodecall.com/blog/wp-content/uploads/2023/01/cerveza-republica-checa.jpg)
+-  **Praga, la capital, es conocida como la "ciudad de las 100 torres".**  
 
 - **A su capital, Praga, se le conoce como _La Ciudad Dorada_** 
 A Praga se le conoce a menudo como la Ciudad Dorada debido a las muchas torres y agujas con puntas doradas que se pueden ver en toda la ciudad. Estas incluyen las torres del Castillo de Praga, la Catedral de San Vito y la Iglesia de Nuestra Señora ante Tyn. **El apodo también refleja el rico patrimonio cultural de la ciudad,** ya que Praga fue un importante centro de arte, música y literatura durante la Edad Media y el Renacimiento.
@@ -243,16 +245,8 @@ Algunos platos típicos:
 ![Trdelník](https://images.squarespace-cdn.com/content/v1/5e558c8165fc4c78f502938d/1615393965092-1F3RUUQ9X0VS5TERI64S/1024px-Trdelni%CC%81k_C%CC%8Cesky%CC%81_Krumlov_%281%29.jpg?format=2500w)
 ---
 
-# 7.️ **Curiosidades y datos interesantes**  
 
--  **El checo y el eslovaco son mutuamente inteligibles.**  
--  **El idioma checo tiene más de 10 millones de hablantes.**  
--  **La República Checa tiene el mayor consumo de cerveza per cápita en el mundo.**  
--  **Praga, la capital, es conocida como la "ciudad de las 100 torres".**  
-
----
-
-# 8. **Fuentes utilizadas**
+# 7. **Fuentes utilizadas**
 - [Wikipedia - Idioma Checo](https://es.wikipedia.org/wiki/Idioma_checo)  
 - [La Vanguardia](https://www.lavanguardia.com/magazine/experiencias/republica-checa-praga-moravia-melodia-historica.html)
 - [Aprender checo básico - Loecsen](https://www.loecsen.com/es/curso-checo)  

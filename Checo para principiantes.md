@@ -161,6 +161,7 @@ Si quieres sonar como un nativo, aquí tienes formas de saludar y despedirte:
 | Buenos días | Dobrý den!      | **"Dobri den"** |
 | Buenas noches | Dobrou noc!  | **"Dobrou nots"** |
 | ¡Adiós!     | Nashledanou!    | **"Nash-le-da-nou"** |
+
 **Dato curioso:** "Ahoj" no solo significa **"hola"**, sino que también es un saludo que usaban los marineros. ¡Es como decir "¡Ahoy, piratas!" en español!
 
 ## **Expresiones básicas para la vida diaria**  
